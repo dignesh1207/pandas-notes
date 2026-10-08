@@ -1,0 +1,16 @@
+# Data files (too big for GitHub)
+*.csv
+*.zip
+stackoverflow-survey-2019/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+data/
